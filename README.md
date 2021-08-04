@@ -1,4 +1,6 @@
 # Hans-AliucordThemes
 Themes for Aliucord made by me
-* Screenshots
-[Eye Candy](https://media.discordapp.net/attachments/824357609778708580/872218252774867055/Screenshot_2021-08-04-01-08-11-094_com.aliucord-01.jpeg)
+* Currently Active Projects- 
+* (Screenshots may not always be of the latest version of the themes.)
+
+* [Eye Candy](https://media.discordapp.net/attachments/872196085916008460/872552364094132224/Screenshot_2021-08-04-01-08-11-094_com.aliucord-01.jpeg)
